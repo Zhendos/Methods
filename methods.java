@@ -187,3 +187,6 @@ public final void client.getParameter(int)
 public final void client.getParameter()
 public final void client.getDocumentBase(int)
 public final void client.H()
+
+Methods found: 189/189.
+Hooks broken: 0.
